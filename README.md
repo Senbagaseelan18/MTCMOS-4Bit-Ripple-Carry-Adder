@@ -45,7 +45,7 @@ This design leverages MTCMOS to build an energy-efficient 4-bit adder suitable f
 ## 📷 Schematic Snapshots
 
 ### 🔧 MTCMOS 10T Full Adder  
-![10T Full Adder](docs/mtcmos_10t_full_adder.png)
+![10T Full Adder](docs/mtcmos_10t_full_circuit.png)
 
 ### 🔲 10T Full Adder  
 ![Full Adder](docs/full_adder_schematic.png)
