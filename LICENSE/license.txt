@@ -1,0 +1,16 @@
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+**Senbagaseelan V**  
+B.E – Electronics Engineering - VLSI Design and Technology  
+senbagaseelan7@gmail.com
+
+---
